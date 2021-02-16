@@ -1,6 +1,6 @@
 **🚧 Work in progress 🚧**
 
-### Hi there 👋
+### Hi there <img src="./wave.gif" width="30px">
 
 ## Who I am ?
 I'm a french student in Grenoble at the IT iut.
